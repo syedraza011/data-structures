@@ -1,4 +1,4 @@
-// Define a class for a node in the linked list
+// Define a class for a node in the (single linked) linked list
 class Node {
   constructor(data) {
     this.data = data; // the data stored in the node
